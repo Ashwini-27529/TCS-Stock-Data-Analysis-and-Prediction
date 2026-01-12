@@ -49,13 +49,13 @@ The goal of this project was to:
 ## 🖼️ Dashboard Preview
 
 ### 📈 Stock Price & Trend Analysis
-![Stock Trend Dashboard](screenshots/page1.png)
+![Stock Trend Dashboard]("C:\Users\user\Desktop\Internship\TCS Stock Data Analysis and Prediction\Screenshot 2026-01-12 171220.png")
 
 ### 📊 Volatility & Volume Insights
-![Volatility Dashboard](screenshots/page2.png)
+![Volatility Dashboard]("C:\Users\user\Desktop\Internship\TCS Stock Data Analysis and Prediction\Screenshot 2026-01-12 171243.png")
 
 ### 💼 Financial Performance Overview
-![Financial Dashboard](screenshots/page3.png)
+![Financial Dashboard]("C:\Users\user\Desktop\Internship\TCS Stock Data Analysis and Prediction\Screenshot 2026-01-12 171304.png")
 
 ---
 
