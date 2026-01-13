@@ -49,7 +49,7 @@ The goal of this project was to:
 ## 🖼️ Dashboard Preview
 
 ### 📈 Stock Price & Trend Analysis
-![Stock Trend Dashboard]("C:\Users\user\Desktop\Internship\TCS Stock Data Analysis and Prediction\Screenshot 2026-01-12 171220.png")
+![Stock Trend Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171220.png)
 
 ### 📊 Volatility & Volume Insights
 ![Volatility Dashboard]("C:\Users\user\Desktop\Internship\TCS Stock Data Analysis and Prediction\Screenshot 2026-01-12 171243.png")
