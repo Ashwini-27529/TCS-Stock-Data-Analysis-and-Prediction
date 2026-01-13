@@ -1,4 +1,3 @@
-# TCS-Stock-Data-Analysis-and-Prediction
 
 # 📊 TCS Stock Data Analysis and Prediction
 
@@ -8,7 +7,6 @@ The objective is to convert raw stock market data into **clear, meaningful insig
 
 The dashboard is designed to be understandable for both **technical and non-technical stakeholders**, following correct financial aggregation and time-intelligence practices.
 
----
 
 ## ❓ Problem Statement
 Stock market analysis often suffers from:
@@ -22,7 +20,6 @@ The goal of this project was to:
 - Evaluate **financial health and valuation metrics**
 - Present insights in a **clean, interview-ready Power BI dashboard**
 
----
 
 ## ⚙️ Implementation
 
@@ -44,7 +41,6 @@ The goal of this project was to:
 - DAX (Time Intelligence, Moving Averages)  
 - Financial data modeling best practices  
 
----
 
 ## 🖼️ Dashboard Preview
 
@@ -52,12 +48,11 @@ The goal of this project was to:
 ![Stock Trend Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171220.png)
 
 ### 📊 Volatility & Volume Insights
-![Volatility Dashboard]("Screenshot 2026-01-12 171243.png")
+![Volatility Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171243.png)")
 
 ### 💼 Financial Performance Overview
 ![Financial Dashboard](Screenshot 2026-01-12 171304.png)
 
----
 
 ## 🎯 Key Insights
 - Identified long-term stock price trends using moving averages
@@ -65,13 +60,11 @@ The goal of this project was to:
 - Evaluated company fundamentals beyond price movements
 - Delivered financially accurate metrics suitable for stakeholder discussions
 
----
 
 ## 🧠 Conclusion
 This project demonstrates how **financial logic, data modeling, and visualization** can be combined to build a **decision-ready stock analysis dashboard**.  
 It reflects real-world analytical thinking and is suitable for **interviews and professional portfolios**.
 
----
 
 ## 🔗 Author
 **Ashwini Shetty**  
