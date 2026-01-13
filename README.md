@@ -48,10 +48,10 @@ The goal of this project was to:
 ![Stock Trend Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171220.png)
 
 ### 📊 Volatility & Volume Insights
-![Volatility Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171243.png)")
+![Volatility Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171243.png)
 
 ### 💼 Financial Performance Overview
-![Financial Dashboard](Screenshot 2026-01-12 171304.png)
+![Financial Dashboard](https://github.com/Ashwini-27529/TCS-Stock-Data-Analysis-and-Prediction/blob/main/Screenshot%202026-01-12%20171304.png)
 
 
 ## 🎯 Key Insights
