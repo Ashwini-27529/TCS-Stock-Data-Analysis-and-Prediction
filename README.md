@@ -39,7 +39,7 @@ The goal of this project was to:
 ### 🔹 Tools Used
 - Power BI  
 - DAX (Time Intelligence, Moving Averages)  
-- Financial data modeling best practices  
+- Power Query 
 
 
 ## 🖼️ Dashboard Preview
